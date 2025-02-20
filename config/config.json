@@ -1,0 +1,5 @@
+{
+    "MODEL_NAME": "./models/model_5",
+    "LOG_FILE": "logs/service.log",
+    "PORT": 8000
+}
