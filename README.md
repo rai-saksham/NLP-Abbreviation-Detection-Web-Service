@@ -126,7 +126,7 @@ The CI/CD pipeline automates model training and deployment by:
 - **Saksham Ashwini Rai**
 - **Raj Vinod Mistry**
 - **Suhas Trimbak Barapatre**
-- **Aditya Narayan Sawant**
+- **Aditya Narayan Sawant**: https://github.com/aditya250
 - **Kunal Vinayshankar Singh**
 
 ---
