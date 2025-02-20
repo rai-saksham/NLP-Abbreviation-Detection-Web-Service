@@ -1,7 +1,7 @@
 # NLP Abbreviation Detection Web Service
 
 ## Project Overview
-This project is part of the Natural Language Processing (NLP) coursework for COMM061 at the University of Surrey. The goal of the project was to develop a web service capable of detecting abbreviations in scientific texts using machine learning models. After extensive experimentation with various models, **BERT** was selected as the best-performing model for the task.
+This project is part of the Natural Language Processing (NLP) coursework at the University of Surrey. The goal of the project was to develop a web service capable of detecting abbreviations in scientific texts using machine learning models. After extensive experimentation with various models, **BERT** was selected as the best-performing model for the task.
 
 The web service is implemented using **FastAPI**, enabling high-performance asynchronous request handling. The project also incorporates **logging, monitoring, CI/CD pipeline**, and **stress testing** to ensure robustness and scalability.
 
