@@ -122,18 +122,17 @@ The CI/CD pipeline automates model training and deployment by:
 
 ---
 
-## Team Members & Contributions
-- **Saksham Ashwini Rai (URN: 6806149)**: CRF-LSTM model, tokenization experiments
-- **Raj Vinod Mistry (URN: 6800650)**: BERT fine-tuning, SMOTE implementation
-- **Suhas Trimbak Barapatre (URN: 6786248)**: BiLSTM and Transformer model comparison
-- **Aditya Narayan Sawant (URN: 6828571)**: Hyperparameter tuning, loss function optimization
-- **Kunal Vinayshankar Singh (URN: 6838345)**: SVM vs. BERT evaluation, Bayesian optimization
+## Team Members
+- **Saksham Ashwini Rai**
+- **Raj Vinod Mistry**
+- **Suhas Trimbak Barapatre**
+- **Aditya Narayan Sawant**
+- **Kunal Vinayshankar Singh**
 
 ---
 
 ## Additional Resources
 - **Project Report**: Available in the repository for in-depth details.
-- **Video Demonstration**: [View Here](https://surreyac-my.sharepoint.com/:v:/g/personal/sr01902_surrey_ac_uk/EaV4Fg99O55AhzXE4pGbKbsBnKBSWdEcdyMpvs7ui9rvsA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwi...)
 
 ---
 
@@ -141,7 +140,4 @@ The CI/CD pipeline automates model training and deployment by:
 This project is for educational purposes and is licensed under **MIT License**.
 
 ---
-
-## Acknowledgments
-Special thanks to **Dr. [Professor's Name]** for guidance and to the University of Surrey for providing resources for this coursework.
 
